@@ -54,21 +54,19 @@
 
 <br/>
 
-<p align="center">
+<br/>
+
+## My GitHub
+<p align="left">
   
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/CuriousGu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" alt="My GitHub streak"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  
+  <a href="https://github.com/CuriousGu">
+    <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=#1C1E26&title_color=007ACC&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-</p>
+  
+</p
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
