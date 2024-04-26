@@ -64,7 +64,8 @@
   </a>
   
   <a href="https://github.com/CuriousGu">
-    <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&count_private=true&border_color=7F3FBF&bg_color=#1C1E26&title_color=007ACC&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&bg_color=1C1E26&border_color=000000&icon_color=59E1E3&text_color=23BD87&title_color=E95678" 
+      height="192px" width="49.5%"/>
   </a>
   
 </p
